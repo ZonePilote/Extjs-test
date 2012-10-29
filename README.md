@@ -1,4 +1,0 @@
-Extjs-test
-==========
-
-Test Extjs
